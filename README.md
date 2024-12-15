@@ -29,17 +29,17 @@ Pruebas de funcionamiento:
 
 Para las pruebas realizadas se corrio la aplicación 3 veces, para generar 3 interfaces de chat, inicialmente solo se abrieron 2 chats para evaluar la interacción entre ambos al enviar mensajes y el tercer chat se abrio despues de que ya se habian enviado mensajes, para validar la replicación del historial del chat al momento de abrir una nueva ventana.
 
-Primer chat: Este chat corresponde al usuario: jarvis94-52222
+Primer chat: Este chat corresponde al usuario: jarvis94-52222 (Color amarillo)
 ![image](https://github.com/user-attachments/assets/13aa3105-b8ea-4cb9-bd5c-01ba3935e4ea)
 
 En este chat se puede envidenciar que los mensajes enviados por este usuario llegan a la interfaz del usuario jarvis94-62821 (segundo chat) y de igual forma en el chat del usuario jarvis94-52222 (primer chat) se puede ver lo que se envio desde el segundo chat.
 
-Segundo chat:Este chat corresponde al usuario: jarvis94-62821
+Segundo chat:Este chat corresponde al usuario: jarvis94-62821 (Color azul)
 ![image](https://github.com/user-attachments/assets/8866d40a-e974-4fcc-a7da-3a7aa4fb1135)
 
 En este chat se puede envidenciar que los mensajes enviados por este usuario llegan a la interfaz del usuario jarvis94-52222 (primer chat) y de igual forma en el chat del usuario jarvis94-62821 (segundo chat) se puede ver lo que se envio desde el primer chat.
 
-Tercer chat: Este chat corresponde al usuario: jarvis94-12561
+Tercer chat: Este chat corresponde al usuario: jarvis94-12561 (Color verde)
 ![image](https://github.com/user-attachments/assets/acfdd5ff-6a9e-45b2-872f-e4ff4a9c9cda)
 
 En este chat se puede evidenciar que al momento de abrirlo se actualiza con los mensajes previamente enviados por los usuarios jarvis94-52222 y jarvis94-62821 en sus respectivos chats.

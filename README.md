@@ -1,4 +1,9 @@
-Este repositorio contiene el diseño de una aplicación de chat simple, donde cada vez que se corre la aplicación, se genera una nueva ventana de chat que puede participar en la conversación, la conversación entre los usuarios es compartida, es decir que lo que escribe cualquier ventana de chat, se ve reflejado en las otras ventanas, cuando se genera un nuevo chat se cargan inmediatamente el historico de los mensajes generados previamente.
+Este repositorio contiene el diseño de una aplicación llamada simple chat, donde cada vez que se corre la aplicación, se genera una nueva ventana de chat que puede participar en la conversación, la conversación entre los usuarios es compartida, es decir que lo que escribe cualquier ventana de chat, se ve reflejado en las otras ventanas, cuando se genera un nuevo chat se cargan inmediatamente el historico de los mensajes generados previamente.
+
+Arquitectura de la aplicación:
+
+![image](https://github.com/user-attachments/assets/62ac9eb8-32e1-4103-98a5-8c1bea50a00c)
+
 
 A continuación se docuemntan las partes del codigo:
 
